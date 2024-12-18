@@ -1,10 +1,10 @@
 import React from "react";
 import "./StarType.css";
-import StarImage1 from "./별타입1.jpg";
-import StarImage2 from "./별타입2.jpg";
-import StarImage3 from "./별타입3.jpg";
-import StarImage4 from "./별타입4.jpg";
-import StarImage5 from "./별타입5.jpg";
+import StarImage1 from "./별타입1.png";
+import StarImage2 from "./별타입2.png";
+import StarImage3 from "./별타입3.png";
+import StarImage4 from "./별타입4.png";
+import StarImage5 from "./별타입5.png";
 
 const StarType = ({ options, onOptionsChange }) => {
   const handleChange = (e) => {
