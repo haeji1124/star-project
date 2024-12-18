@@ -1,0 +1,10 @@
+.radios{
+    display: flex;
+}
+.radio{
+    display: flex;
+}
+.radio-label{
+    display: flex;
+    align-items: center;
+}
